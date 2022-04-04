@@ -20,6 +20,7 @@ public class Prg4 {
 
            for (String elements:arrayList)  {
                System.out.println(elements);
+                System.out.println("name one");
            }
 
     }
